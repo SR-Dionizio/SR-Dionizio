@@ -11,6 +11,7 @@ Olá! Eu sou Daniel, um Engenheiro de Dados apaixonado por transformar dados em 
 
 ## Projetos Destacados
 
+- [data_transform_terraform](https://github.com/SR-Dionizio/data_transform_terraform): Projeto que extrai dados de posts aleatórios e trata eles usando Pyspark, terraform, serverless, aws s3, aws glue e aws redshift.
 - [API_Random](https://github.com/SR-Dionizio/API_Random): Projeto que extrai dados aleatórios de uma API e os insere em um banco de dados utilizando Python e Pandas.
 - [Get COVID Data](https://github.com/SR-Dionizio/get_covid_data): Projeto que coleta e processa dados relacionados à COVID-19 de fontes públicas utilizando Python e bibliotecas como pandas e requests.
 - [Controle de Chassi](https://github.com/SR-Dionizio/Controle_de_Chassi): Projeto de controle de chassi de veículos utilizando Python e bancos de dados SQL.
