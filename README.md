@@ -42,6 +42,3 @@ Estou constantemente em busca de novos desafios e oportunidades para crescer na 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dionizio-santos/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel_santos300@hotmail.com)
 
----
-
-Conecte-se comigo para discutir projetos desafiadores ou oportunidades na área de Engenharia de Dados. Estou sempre aberto a novas ideias e colaborações que promovam a eficiência e a inteligência por meio da tecnologia.
