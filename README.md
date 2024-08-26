@@ -1,37 +1,47 @@
 # Daniel Dionizio
 
-Olá! Eu sou Daniel, um Engenheiro de Dados apaixonado por transformar dados em insights valiosos. Neste perfil, você encontrará projetos e contribuições relacionadas à coleta, processamento e análise de dados.
+**Olá!**  
+Sou um **Desenvolvedor Python** com ampla experiência em projetar e implementar soluções eficazes de gerenciamento de dados. Tenho uma especialização em ferramentas e tecnologias essenciais para Engenharia de Dados, incluindo **Python, SQL (Postgres, Redshift, SQL Server, MySQL)**, **PySpark**, **AWS Glue**, **Terraform**, **Apache Airflow** e **Power BI**.
 
-## Sobre Mim
+## 🚀 Sobre Mim
 
-- 👨‍💻 Engenheiro de Dados
-- 🌱 Aprendendo e explorando o mundo dos dados
-- 💡 Apaixonado por soluções de Big Data, Engenharia de Dados e Cloud Computing
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+Tenho um histórico comprovado na criação de **Data Lakes** e **Data Warehouses**, consolidando dados de múltiplas fontes em sistemas unificados que melhoram a tomada de decisões e a eficiência operacional. Minha experiência abrange:
 
-## Projetos Destacados
+- **Automatização de Pipelines de Dados:** Utilizo **Apache Airflow** para orquestrar transformações de dados no **AWS Glue**, otimizando a coleta e análise de dados.
+- **Armazenamento e Processamento na Nuvem:** Utilizo **AWS S3** para maximizar o armazenamento e processamento de dados na nuvem.
+- **Integração de Dados:** Consolido dados de diversas fontes para criar sistemas robustos que suportam decisões estratégicas.
 
-- [data_transform_terraform](https://github.com/SR-Dionizio/data_transform_terraform): Projeto que extrai dados de posts aleatórios e trata eles usando Pyspark, terraform, serverless, aws s3, aws glue e aws redshift.
-- [API_Random](https://github.com/SR-Dionizio/API_Random): Projeto que extrai dados aleatórios de uma API e os insere em um banco de dados utilizando Python e Pandas.
-- [Get COVID Data](https://github.com/SR-Dionizio/get_covid_data): Projeto que coleta e processa dados relacionados à COVID-19 de fontes públicas utilizando Python e bibliotecas como pandas e requests.
-- [Controle de Chassi](https://github.com/SR-Dionizio/Controle_de_Chassi): Projeto de controle de chassi de veículos utilizando Python e bancos de dados SQL.
+Estou constantemente em busca de novos desafios e oportunidades para crescer na área de **Engenharia de Dados**, focando em inovações que promovam a eficiência e a inteligência através da tecnologia.
 
-## Habilidades
+## 💼 Habilidades
 
-- 💻 Python, SQL, Excel
-- 🛢️ Banco de Dados SQL (SQL Server, MySQL)
-- 🐍 Bibliotecas e Frameworks: pandas, requests, pyodbc, shareplum, pyspark, selenium, pyautogui, pywin32
-- 📊 Análise e visualização de dados: Excel, Power BI
-- 🔍 Coleta e processamento de dados
-- 🧠 Aprendizado contínuo e adaptação a novas tecnologias
+- **Linguagens de Programação:** Python, SQL (Postgres, Redshift, SQL Server, MySQL)
+- **Ferramentas e Tecnologias:** PySpark, AWS Glue, Terraform, Apache Airflow, Power BI
+- **Especialidades:** Criação de Data Lakes e Data Warehouses, automação de pipelines de dados, otimização de processos de ETL, armazenamento e processamento na nuvem
 
-## Contato
+## 🌟 Projetos Destacados
 
-Se você está trabalhando em projetos interessantes ou deseja discutir ideias relacionadas à Engenharia de Dados, ficarei feliz em colaborar e compartilhar conhecimentos.
+- **[data_transform_terraform](https://github.com/SR-Dionizio/data_transform_terraform):**  
+  Projeto que realiza a extração de dados de posts aleatórios e os processa utilizando Pyspark, Terraform, Serverless, AWS S3 e AWS Glue.
+  
+- **[API_Random](https://github.com/SR-Dionizio/API_Random):**  
+  Projeto focado na extração de dados aleatórios de uma API e sua inserção em um banco de dados, utilizando Python e Pandas.
+  
+- **[Get COVID Data](https://github.com/SR-Dionizio/get_covid_data):**  
+  Projeto para coleta e processamento de dados relacionados à COVID-19 a partir de fontes públicas, utilizando Python e bibliotecas como Pandas e Requests.
+  
+- **[Controle de Chassi](https://github.com/SR-Dionizio/Controle_de_Chassi):**  
+  Sistema de controle de chassi de veículos desenvolvido com Python e bancos de dados SQL.
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-dionizio-santos/)
-- E-mail: daniel_santos300@hotmail.com
+## 📊 Visualização de Linguagens
 
-Vamos conectar, colaborar e crescer juntos nesta emocionante jornada da Engenharia de Dados!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Dionizio&layout=compact&theme=radical&hide=css,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-#EngenhariaDeDados #DataEngineering #BigData
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dionizio-santos/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel_santos300@hotmail.com)
+
+---
+
+Conecte-se comigo para discutir projetos desafiadores ou oportunidades na área de Engenharia de Dados. Estou sempre aberto a novas ideias e colaborações que promovam a eficiência e a inteligência por meio da tecnologia.
