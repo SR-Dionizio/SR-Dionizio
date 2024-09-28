@@ -21,17 +21,17 @@ Estou constantemente em busca de novos desafios e oportunidades para crescer na 
 
 ## 🌟 Projetos Destacados
 
+- **[e-commerce](https://github.com/SR-Dionizio/e-commerce):**  
+  Projeto Flask básico para aprender o framework. Foco em rotas e renderização de templates.
+  
+- **[web_enquete](https://github.com/SR-Dionizio/web_enquete):**  
+  Aplicação Django para criar e gerenciar enquetes. Inclui lógica de backend, templates e talvez um banco de dados.
+  
+- **[aiflow_twitter_dados](https://github.com/SR-Dionizio/aiflow_twitter_dados):**  
+  Projeto com Apache Airflow para coleta de dados do Twitter. Integração de pipeline de dados e automação.
+  
 - **[data_transform_terraform](https://github.com/SR-Dionizio/data_transform_terraform):**  
-  Projeto que realiza a extração de dados de posts aleatórios e os processa utilizando Pyspark, Terraform, Serverless, AWS S3 e AWS Glue.
-  
-- **[API_Random](https://github.com/SR-Dionizio/API_Random):**  
-  Projeto focado na extração de dados aleatórios de uma API e sua inserção em um banco de dados, utilizando Python e Pandas.
-  
-- **[Get COVID Data](https://github.com/SR-Dionizio/get_covid_data):**  
-  Projeto para coleta e processamento de dados relacionados à COVID-19 a partir de fontes públicas, utilizando Python e bibliotecas como Pandas e Requests.
-  
-- **[Controle de Chassi](https://github.com/SR-Dionizio/Controle_de_Chassi):**  
-  Sistema de controle de chassi de veículos desenvolvido com Python e bancos de dados SQL.
+  Infraestrutura como código (IaC) para gerenciar serviços AWS, integração com Serverless Framework e Python.
 
 ## 📊 Visualização de Linguagens
 
@@ -41,4 +41,3 @@ Estou constantemente em busca de novos desafios e oportunidades para crescer na 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dionizio-santos/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel_santos300@hotmail.com)
-
