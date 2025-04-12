@@ -1,43 +1,74 @@
-# Daniel Dionizio
 
-**Olá!**  
-Sou um **Desenvolvedor Python** com ampla experiência em projetar e implementar soluções eficazes de gerenciamento de dados. Tenho uma especialização em ferramentas e tecnologias essenciais para Engenharia de Dados, incluindo **Python, SQL (Postgres, Redshift, SQL Server, MySQL)**, **PySpark**, **AWS Glue**, **Terraform**, **Apache Airflow** e **Power BI**.
+# 👨‍💻 Daniel Dionizio  
+
+**Engenheiro de Dados | Python Developer | Cloud & Big Data Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dionizio-santos/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel_santos300@hotmail.com)
+
+---
 
 ## 🚀 Sobre Mim
 
-Tenho um histórico comprovado na criação de **Data Lakes** e **Data Warehouses**, consolidando dados de múltiplas fontes em sistemas unificados que melhoram a tomada de decisões e a eficiência operacional. Minha experiência abrange:
+Sou um **Engenheiro de Dados** apaixonado por transformar dados em soluções inteligentes para negócios. Especialista em **Python, SQL, Big Data e Cloud (AWS)**, desenvolvo soluções robustas para integração, armazenamento, processamento e visualização de dados.
 
-- **Automatização de Pipelines de Dados:** Utilizo **Apache Airflow** para orquestrar transformações de dados no **AWS Glue**, otimizando a coleta e análise de dados.
-- **Armazenamento e Processamento na Nuvem:** Utilizo **AWS S3** para maximizar o armazenamento e processamento de dados na nuvem.
-- **Integração de Dados:** Consolido dados de diversas fontes para criar sistemas robustos que suportam decisões estratégicas.
+💡 Tenho experiência prática com:
+- **Data Lakes** e **Data Warehouses**
+- **Automação de pipelines de dados** com Airflow e AWS Glue
+- **Armazenamento de dados** em AWS S3
+- **Infraestrutura como Código (IaC)** com Terraform
+- **Visualização de dados** no Power BI
 
-Estou constantemente em busca de novos desafios e oportunidades para crescer na área de **Engenharia de Dados**, focando em inovações que promovam a eficiência e a inteligência através da tecnologia.
+Sempre em busca de novos desafios e inovações no mundo de dados e nuvem ☁️.
 
-## 💼 Habilidades
+---
 
-- **Linguagens de Programação:** Python, SQL (Postgres, Redshift, SQL Server, MySQL)
-- **Ferramentas e Tecnologias:** PySpark, AWS Glue, Terraform, Apache Airflow, Power BI
-- **Especialidades:** Criação de Data Lakes e Data Warehouses, automação de pipelines de dados, otimização de processos de ETL, armazenamento e processamento na nuvem
+## 🛠️ Tecnologias que Uso  
 
-## 🌟 Projetos Destacados
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" alt="AWS Glue" width="50" height="50"/>
+  <img src="https://www.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png" alt="Databricks" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" alt="AWS Lambda" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" alt="AWS S3" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+</div>
 
-- **[e-commerce](https://github.com/SR-Dionizio/e-commerce):**  
-  Projeto Flask básico para aprender o framework. Foco em rotas e renderização de templates.
-  
-- **[web_enquete](https://github.com/SR-Dionizio/web_enquete):**  
-  Aplicação Django para criar e gerenciar enquetes. Inclui lógica de backend, templates e talvez um banco de dados.
-  
-- **[aiflow_twitter_dados](https://github.com/SR-Dionizio/aiflow_twitter_dados):**  
-  Projeto com Apache Airflow para coleta de dados do Twitter. Integração de pipeline de dados e automação.
-  
-- **[data_transform_terraform](https://github.com/SR-Dionizio/data_transform_terraform):**  
-  Infraestrutura como código (IaC) para gerenciar serviços AWS, integração com Serverless Framework e Python.
+---
 
-## 📊 Visualização de Linguagens
+## 📈 Habilidades  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Dionizio&layout=compact&theme=radical&hide=css,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+- **Engenharia de Dados**: Criação de pipelines escaláveis, ETL/ELT, integração de dados e arquitetura em nuvem  
+- **Automação**: Orquestração de workflows com Airflow e AWS Glue  
+- **Infraestrutura**: Provisionamento com Terraform e Serverless Framework  
+- **Análise e Visualização**: Criação de dashboards interativos no Power BI  
 
-## 📫 Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dionizio-santos/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel_santos300@hotmail.com)
+## 📂 Projetos Destaque  
+
+| 📌 Projeto | 🚀 Tecnologias | 📄 Descrição |
+|:-----------|:----------------|:--------------|
+| [**Lakehouse SRAG**](https://github.com/SR-Dionizio/lakehouse_srag) | PySpark, Airflow, AWS, Docker, Ec2 | Pipeline de dados para armazenamento e análise de registros SRAG usando arquitetura Lakehouse |
+| [**Data Lakehouse**](https://github.com/SR-Dionizio/data_lakehouse) | DBT Core, AWS, Duck DB, Postgres, SQL | Projeto de Data Lakehouse na AWS com ingestão, transformação e consumo de dados |
+| [**Desafios**](https://github.com/SR-Dionizio/desafios) | Python, SQL, Pyspark | Repositório com desafios de dados resolvidos, incluindo lógica, ETL e consultas SQL |
+
+---
+
+## 📊 Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Dionizio&layout=compact&theme=radical&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Vamos conversar!
+
+Se quiser trocar ideias sobre projetos, engenharia de dados, Python ou tecnologias em nuvem, me chame no [LinkedIn](https://www.linkedin.com/in/daniel-dionizio-santos/) ou envie um [e-mail](mailto:daniel_santos300@hotmail.com) 📩.
+
+---
+
+## 🎶 Curiosidade  
+Apaixonado por rock, fã de **Linkin Park** e **Foo Fighters** — “**Breaking the Habit**” sempre na playlist 🎧.
